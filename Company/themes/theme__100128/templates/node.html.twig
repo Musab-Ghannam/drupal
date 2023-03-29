@@ -1,0 +1,43 @@
+{%
+set body_classes = [
+logged_in ? 'user-logged-in',
+not root_path ? 'path-frontpage' : 'path-' ~ root_path|clean_class,
+node_type ? 'node--type-' ~ node_type|clean_class,
+db_offline ? 'db-offline',
+]
+%}
+{% set type =  node.getType %}
+{% if type == "article"%}
+<div class="ttr_post">
+<div class="ttr_post_content_inner">
+<div class="ttr_post_inner_box">
+{{ title_prefix }}
+<h2{{ title_attributes.addClass('ttr_post_title') }}>
+<a href="{{ url }}">
+{{ label }}
+</a>
+</h2>
+{{ title_suffix }}
+</div>
+<div class="ttr_article">
+{% if display_submitted %}
+<div  class="postedon node_meta">
+<span  class="meta" {{ author_attributes }}>
+Posted on 
+{{ date }} by 
+{{ author_name }}
+</span>{{ metadata }}
+</div>
+{% endif %}
+{% endif %}
+<div  id="main-content" class="postcontent" {{ content_attributes }}>
+{{ content.comments }}
+{{ content }}
+{{ content.comments }}
+</div>
+<div style="clear:both;"></div>
+{% if type == "article"%}
+</div>
+</div>
+</div>
+{% endif %}

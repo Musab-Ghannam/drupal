@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Services</menu_item_title>
+      <menu_item_path>services</menu_item_path>
+      <menu_item_slug>services</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><br style="font-family:'Spectral','Arial';font-size:2.667em;color:rgba(255,255,255,1);" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.87em;"><span style="font-family:'Poppins','Arial';font-weight:500;font-size:2.667em;color:rgba(13,60,0,1);">Nature In Your House</span></p><br /><p style="line-height:1.57em;">Today, we have grown into a full service landscape management</p><p style="line-height:1.57em;">contractor serving multi-unit residential communities such as Master</p><p style="line-height:1.57em;">Associations, Condominiums, Home Owner Associations &amp; as well as</p><p style="line-height:1.57em;">residential clients throughout Broward County, Florida.We take pride</p><p style="line-height:1.57em;">in customizing our services to meet the needs and budgets of each individual</p><p style="line-height:1.57em;">customer.</p><br /><p style="line-height:1.57em;">Lanscop provides full &amp; comprehensive services in irrigation, landscape,</p><p style="line-height:1.57em;">maintenance and professional tree care management. A fifteen-acre tree</p><p style="line-height:1.57em;">farm and nursery help us to provide our customers with quality plants &amp;</p><p style="line-height:1.57em;">trees at affordable pricing</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:2.4em;color:rgba(7,127,76,1);">What We Do</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:329px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/blog_featured_1370x287.jpg" alt="jh" /></span></span><span style="font-weight:500;font-size:1.467em;color:rgba(7,127,76,1);">Gardening</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.75em;"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:287px;max-width:370px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/blog_featured_2370x287.jpg" alt="e5t" /></span></span><span style="font-weight:500;font-size:1.467em;color:rgba(7,127,76,1);">Maintenance</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.75em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:287px;max-width:370px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/blog_featured_3370x2871.jpg" alt="fs" /></span></span><span style="font-weight:500;font-size:1.467em;color:rgba(7,127,76,1);">Urban Gardening</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.75em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;line-height:4.39em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:2.4em;color:rgba(7,127,76,1);">Welcome to Gardening</span></p><p style="margin:5px 0px 30px 0px;line-height:2.07em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p style="margin:5px 0px 30px 0px;line-height:2.07em;"><span><a target="_self" class="btn btn-md btn-primary">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:800px;max-width:800px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/team_02.jpg" alt="xbc" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:2.11em;"><span style="font-size:1.133em;color:rgba(226,201,152,1);">THE BEST QUALITY</span></p><p style="line-height:4.87em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.667em;color:rgba(255,255,255,1);">Why Choose Us</span></p><p><br style="color:rgba(255,255,255,1);" /></p><p style="line-height:1.57em;"><span style="font-family:'Raleway','Arial';color:rgba(255,255,255,1);">The Landscop is a full-service grounds care company. Our established</span></p><p style="line-height:1.57em;"><span style="font-family:'Raleway','Arial';color:rgba(255,255,255,1);">systems allow us to deliver industry-leading lawn care and landscape</span></p><p style="line-height:1.57em;"><span style="font-family:'Raleway','Arial';color:rgba(255,255,255,1);">solutions to commercial and residential clients. Built on a family</span></p><p style="line-height:1.57em;"><span style="font-family:'Raleway','Arial';color:rgba(255,255,255,1);">tradition of caring, we are driven by a passion to exceed customer</span></p><p style="line-height:1.57em;"><span style="font-family:'Raleway','Arial';color:rgba(255,255,255,1);">expectations and consistently deliver client satisfaction.</span></p><p><br style="color:rgba(255,255,255,1);" /></p><p style="line-height:1.57em;"><span style="font-family:'Poppins','Arial';color:rgba(255,255,255,1);">We always put quality first</span></p><p style="line-height:1.57em;"><span style="font-family:'Poppins','Arial';color:rgba(255,255,255,1);">Customer satisfaction is absolute</span></p><p style="line-height:1.57em;"><span style="font-family:'Poppins','Arial';color:rgba(255,255,255,1);">Fast and quality work</span><span class="ttr_image" style="float:Right;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:304px;max-width:214px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/leave_video.png" alt="54w" /></span></span></p><p style="margin:40px 0px 5px 0px;line-height:1.57em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:2.4em;color:rgba(7,127,76,1);">Our Services </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:170px;max-width:170px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/card_011.jpg" alt="g" /></span></span><span style="font-weight:700;font-size:1.333em;">Planting Management</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.93em;"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column42">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:170px;max-width:170px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/card_02.jpg" alt="drh" /></span></span><span style="font-weight:700;font-size:1.333em;">Nursery &amp; Tree</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.93em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column43">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:170px;max-width:170px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/card_04.jpg" alt="ygv" /></span></span><span style="font-weight:700;font-size:1.333em;">Grass Trimming</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.93em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row5 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.43em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.867em;color:rgba(255,255,255,1);">TESTIMONIAL</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="color:rgba(255,255,255,1);">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p><p style="text-align:Center; display:block; line-height:2.23em;"><span style="font-weight:500;font-size:1.2em;color:rgba(255,255,255,1);">Marry Quinn</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row6 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column60">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.43em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.867em;color:rgba(7,127,76,1);">OUR PROJECTS</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column61">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:419px;max-width:329px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/zaneleeF3MmVPH9iLYunsplash.jpg" alt="5" /></span></span><span style="font-weight:700;font-size:1.2em;color:rgba(7,127,76,1);">ROYAL GARDEN</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; "><span style="color:rgba(105,105,105,1);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column62">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1020px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/fionasmallwoodrA2t29hZj1sunsplash.jpg" alt="et" /></span></span><span style="font-weight:700;font-size:1.2em;color:rgba(7,127,76,1);">ROYAL GARDEN</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.87em;color:rgba(51,51,51,1);"><span style="color:rgba(105,105,105,1);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column63">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1020px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/karaeadsGevLspKMK7Aunsplash.jpg" alt="rrrrrrrrrrrgh" /></span></span><span style="font-weight:700;font-size:1.2em;color:rgba(7,127,76,1);">ROYAL GARDEN</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.87em;color:rgba(51,51,51,1);"><span style="color:rgba(105,105,105,1);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row7 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column70">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:2.4em;color:rgba(7,127,76,1);">Gardening Projects Gallery</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column71">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:404px;max-width:485px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img1.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column72">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:404px;max-width:485px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img2.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column73">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:404px;max-width:485px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img3.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column74">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:404px;max-width:485px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img4.jpeg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column75">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:404px;max-width:485px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img5.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column76">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:404px;max-width:485px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/img6.jpeg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.43em;"><span style="font-weight:700;font-size:1.867em;">ABOUT US</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><p style="margin:5px 0px 10px 0px;line-height:4.39em;color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:2.4em;">Welcome to Landscaping</span></p><p style="margin:5px 0px 30px 0px;line-height:2.07em;color:rgba(51,51,51,1);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p style="margin:5px 0px 30px 0px;line-height:2.07em;"><span>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p><p style="margin:5px 0px 30px 0px;line-height:2.07em;"><span> </span><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:523px;max-width:448px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/011.png" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:3.43em;color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.867em;color:rgba(255,255,255,1);">TESTIMONIAL</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.07em;color:rgba(51,51,51,1);"><span style="color:rgba(255,255,255,1);">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.23em;color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(255,255,255,1);">Marry Quinn</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.91em;"><span style="font-weight:700;font-size:2.133em;">Our Landscapers Team</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:1.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:270px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/gardener1.jpg" alt="img" /></span></span><span style="font-weight:500;font-size:1.2em;">Dairen Smith</span></p><p style="text-align:Center; display:block; line-height:1.07em;"><span style="color:rgba(71,174,76,1);">Landscaper</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:1.07em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:270px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/gardener2.jpg" alt="img" /></span></span><span style="font-weight:500;font-size:1.2em;">Dairen Smith</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;color:rgba(51,51,51,1);"><span style="color:rgba(71,174,76,1);">Landscaper</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column33">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:1.07em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:270px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/gardener3.jpg" alt="img" /></span></span><span style="font-weight:500;font-size:1.2em;">Dairen Smith</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;color:rgba(51,51,51,1);"><span style="color:rgba(71,174,76,1);">Landscaper</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.67em;"><span style="font-weight:700;font-size:2em;">CONTACT US</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_contact_html_row1 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 10px 8px;line-height:2.71em;"><span style="font-weight:700;font-size:1.467em;">Address:</span></p><p style="margin:2px 0px 0px 8px;line-height:1.93em;"><span style="font-size:0.933em;">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 8px;line-height:1.93em;"><span style="font-size:0.933em;">New York City,</span></p><p style="margin:2px 0px 0px 8px;line-height:1.93em;"><span style="font-size:0.933em;">NY 10005, USA</span></p><p style="margin:2px 0px 0px 8px;line-height:1.93em;"><span style="font-weight:700;font-size:0.933em;">PHONES:</span><span style="font-size:0.933em;"> (800) 123-4567-890</span></p><p style="margin:2px 0px 0px 8px;line-height:1.93em;"><span style="font-weight:700;font-size:0.933em;">WE ARE OPEN:</span><span style="font-size:0.933em;"> Mon-Fri: 10:00 AM - 8:00 PM</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;line-height:2.71em;"><span style="font-weight:700;font-size:1.467em;">Let's Get in Touch </span></p><p><form id="ContactForm1" class="form-horizontal" role="form" method="post" action="#" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+      <contactforms><contactform id="7ae0aa14-eee6-44cf-bf2f-d4345f3e288a" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem IsSelected="True" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="{x:Null}" Name="Name" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Name</ListViewItem><ListViewItem ContentStringFormat="Email" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="Mandate" Name="Email" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Email</ListViewItem><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="{x:Null}" Name="Subject" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Subject</ListViewItem></contactform></contactforms>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Services</page_title>
+      <alias>services</alias>
+      <page_name>Services</page_name>
+      <page_header_id>services</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_services_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.43em;"><span style="font-weight:700;font-size:1.867em;">SERVICES</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_services_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:4.39em;color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:2.4em;">Our Services </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:75px;max-width:369px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/104295450.png" /></span></span><span style="font-weight:700;font-size:1.333em;">Planting Management</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.93em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:75px;max-width:369px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/510320606.png" /></span></span><span style="font-weight:700;font-size:1.333em;">Nursery &amp; Tree</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.93em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:75px;max-width:369px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/918752371.png" /></span></span><span style="font-weight:700;font-size:1.333em;">Grass Trimming</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.93em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_services_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-weight:700;font-size:2.4em;">What We Do</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:362px;max-width:369px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/864325208.jpeg" /></span></span><span style="font-weight:500;font-size:1.467em;">Gardening</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.75em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:362px;max-width:369px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1359388874.jpeg" /></span></span><span style="font-weight:500;font-size:1.467em;">Maintenance</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.75em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:362px;max-width:369px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1093177484.jpeg" /></span></span><span style="font-weight:500;font-size:1.467em;">Urban Gardening</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.75em;color:rgba(51,51,51,1);"><span style="font-size:0.933em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="margin:16px 0px 0px 0px;line-height:1.95em;"><span style="font-weight:700;font-size:1.053em;color:rgba(255,255,255,1);">Gardening</span></h4><p><span style="color:rgba(255,255,255,1);background-color:transparent;">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:700;color:rgba(255,255,255,1);">Pages</span></h4><p style="line-height:2.07em;"><span style="color:rgba(243,243,243,1);">Home</span></p><p style="line-height:2.07em;"><span style="color:rgba(243,243,243,1);">About</span></p><p style="line-height:2.07em;"><span style="color:rgba(243,243,243,1);">Contact</span></p><p style="line-height:2.07em;"><span style="color:rgba(243,243,243,1);">Blog</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:700;color:rgba(255,255,255,1);">Address</span></h4><p style="line-height:2.07em;"><span style="color:rgba(255,255,255,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="line-height:2.07em;"><span style="color:rgba(255,255,255,1);">New York City</span></p><p style="line-height:2.07em;"><span style="color:rgba(255,255,255,1);">NY 10005, USA</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:700;color:rgba(255,255,255,1);">Get In Touch</span></h4><p style="line-height: normal;"><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Facebook.png" /><span style="color:rgba(255,255,255,1);">Facebook</span></p><p style="line-height: normal;"><br style="color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Twitter.png" /><span style="color:rgba(255,255,255,1);">Twitter</span></p><p style="line-height: normal;"><br style="color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/LinkedIn.png" /><span style="color:rgba(255,255,255,1);">LinkedIn</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape00">
+        <block name="headershape00" tt_blockID="header_cell00" title="header_block00">
+          <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 30px 0px;line-height:3.13em;"><span style="font-family:'Nunito Sans','Arial';font-weight:700;font-size:3.067em;color:rgba(255,255,255,1);">If You Want To Be Happy Plant A Garden</span></p><p style="margin:5px 0px 0px 0px;line-height:1em;"><span style="font-family:'Nunito Sans','Arial';font-weight:700;font-size:0.933em;color:rgba(255,255,255,1);">Lanscop provides full &amp; comprehensive services in irrigation, landscape,</span></p><p style="margin:5px 0px 0px 0px;line-height:1em;"><span style="font-family:'Nunito Sans','Arial';font-weight:700;font-size:0.933em;color:rgba(255,255,255,1);">maintenance and professional tree care management.</span></p><p style="margin:30px 0px 5px 0px;line-height:1.07em;"><span><a target="_self" class="btn btn-md btn-default">About Us</a></span></p><p style="margin:5px 0px 30px 0px;text-align:Center; display:block; line-height:4.67em;"><br style="font-weight:700;font-size:4em;color:rgba(255,255,255,1);" /></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>services</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>
